@@ -1,6 +1,4 @@
-Por supuesto, aquí tienes una plantilla en formato Markdown (MD) para los estatutos de un partido político en Costa Rica:
 
-```
 # ESTATUTOS DEL PARTIDO POLÍTICO "NOMBRE DEL PARTIDO"
 
 ## Sección I: Nombre y Naturaleza
