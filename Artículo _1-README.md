@@ -20,4 +20,4 @@ Se establecerán mecanismos adecuados para evitar la manipulación o influencia 
 
 El partido se compromete a utilizar los resultados y conclusiones obtenidos a través de la aplicación "Nombre de la App" como base para la formulación de políticas y acciones concretas. Buscamos que las decisiones políticas estén fundamentadas en la sabiduría colectiva y en el consenso alcanzado a través del diálogo y la participación ciudadana.
 
-Asimismo, nos comprometemos a difundir los resultados de las deliberaciones y votaciones a través de medios de comunicación accesibles y transparentes, asegurando la rendición de cuentas y la visibilidad de las decisiones tomadas por el partido.
+Asimismo, nos comprometemos a difundir los resultados de las deliberaciones y votaciones a través de medios de comunicación accesibles y transparentes, asegurando la rendición de cuentas y la visibilidad de las decisiones tomadas por el partido. ( usando el mismo App ) 
