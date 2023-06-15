@@ -24,3 +24,19 @@ En las alianzas público-privadas (APP), cada sector, ya sea el público, el pri
 
 - **Control y supervisión:** La sociedad civil organizada desempeña un papel importante en el control y la supervisión de las actividades de la alianza, asegurándose de que se cumplan los estándares éticos, sociales y ambientales, y promoviendo la transparencia y la responsabilidad.
 
+<details>
+<summary>Características Negativas de las Alianzas Público-Privadas (APPs)</summary>
+
+1. ☣️ **Falta de transparencia:** Las APPs a menudo involucran contratos y acuerdos complejos, generando falta de transparencia en la toma de decisiones y asignación de recursos. Esto puede dar lugar a percepciones de favoritismo o corrupción.
+
+2. ⚖️ **Riesgo de captura regulatoria:** Existe la preocupación de que los intereses privados puedan influir en las políticas y regulaciones públicas para beneficiarse en las APPs, comprometiendo el interés público y la equidad en la asignación de recursos.
+
+3. ⚖️ **Desequilibrio de poder:** En algunas APPs, el sector privado puede tener un mayor poder de negociación debido a su experiencia y recursos financieros, lo que puede resultar en un desequilibrio en la distribución de beneficios y riesgos entre los sectores público y privado.
+
+4. 💰 **Rentabilidad excesiva:** Se ha argumentado que algunas APPs pueden llevar a una rentabilidad excesiva para el sector privado, especialmente cuando los contratos no están bien estructurados y supervisados adecuadamente.
+
+5. 👥 **Impacto social y laboral:** En algunos casos, las APPs pueden tener impactos negativos en los empleados y las comunidades locales, como la pérdida de empleos, la reducción de salarios o condiciones laborales precarias. También puede haber conflictos entre los objetivos económicos y sociales.
+
+6. ⚠️ **Transferencia de riesgos al sector público:** En ocasiones, los riesgos asociados con las APPs, como los financieros o los relacionados con la operación y mantenimiento de la infraestructura, pueden recaer en última instancia en el sector público, lo que puede generar un mayor costo para los contribuyentes.
+
+</details>
