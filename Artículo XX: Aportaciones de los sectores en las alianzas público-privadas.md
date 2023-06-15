@@ -24,6 +24,10 @@ En las alianzas público-privadas (APP), cada sector, ya sea el público, el pri
 
 - **Control y supervisión:** La sociedad civil organizada desempeña un papel importante en el control y la supervisión de las actividades de la alianza, asegurándose de que se cumplan los estándares éticos, sociales y ambientales, y promoviendo la transparencia y la responsabilidad.
 
+### Sección 4: Aspectos de Riesgo e Impacto Negativo a considerar. 
+
+Si bien las alianzas público-privadas (APPs) pueden tener beneficios significativos, también existen desafíos y características negativas asociadas a ellas. A continuación, se presentan algunos estereotipos o características negativas que se han atribuido a las APPs:
+
 <details>
 <summary>Características Negativas de las Alianzas Público-Privadas (APPs)</summary>
 
